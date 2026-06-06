@@ -295,16 +295,6 @@ GROUP BY MONTH(ActivityDate);
 - Data Quality Monitoring Framework
 - Automated Data Validation Pipelines
 
-## 💼 Resume Highlights
-
-- Designed and implemented an LMS Analytics Data Warehouse using Azure SQL, Python, Azure Synapse Analytics, and Power BI
-- Developed ETL pipelines to process learner activity and enrollment data from multiple source systems
-- Implemented Slowly Changing Dimension (SCD Type-2) logic for historical tracking of learner profile changes
-- Optimized warehouse performance using aggregation strategies, reducing reporting latency by 45%
-- Built Power BI dashboards for learner engagement, course completion analysis, and instructor performance metrics
-- Implemented incremental data loading for improved ETL performance and reduced compute costs
-- Developed comprehensive data quality checks and validation frameworks
-
 ## 📁 Repository Structure
 
 ```
